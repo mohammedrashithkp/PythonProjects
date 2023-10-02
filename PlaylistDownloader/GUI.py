@@ -41,7 +41,7 @@ def open_url():
 
             for video_url in playlist.video_urls:
                 # Get the playlist name for folder creation
-                playlist_name = playlist.title()
+                playlist_name = playlist.title
                 download_video(video_url, output_path, progress_bar, playlist_name)
             
             show_notification("Playlist Download Complete", "Playlist download completed!")
