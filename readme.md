@@ -1,3 +1,11 @@
-# Machine learning with Python
-## How it started
-Since I have already learned Python  why should'nt I apply it somewhere,that was what I was thinking while i started doing it.Bank loan Status Prediction is the where i started.
+# Python Mini Projects
+This repo holds small projects made in python which is still in work in progress
+
+# Contents
+
+1. YT Video Downloader
+2. Python dictionary App
+
+
+## License
+![](./LICENSE)
